@@ -1,3 +1,3 @@
-#Makerless_Motion_Capture_System
+# Markerless Motion Capture System
 # camera_caliberation
-Python source code to caliberate camera
+
